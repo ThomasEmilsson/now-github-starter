@@ -1,6 +1,11 @@
+
+import Layout from '../components/MyLayout'
+import React from "react";
+
 const Index = () => (
-  <div>
-    <p>Hello Next.js </p>
-  </div>
+  <Layout>
+      <p>Hello Next.js </p>
+  </Layout>
 )
+
 export default Index
