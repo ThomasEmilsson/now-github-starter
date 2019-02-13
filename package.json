@@ -13,7 +13,8 @@
   "license": "ISC",
   "repository": "https://github.com/ThomasEmilsson/now-github-starter",
   "dependencies": {
-    "next": "^7.0.3",
+    "next": "8.0.1",
+    "now": "^13.1.3",
     "npm": "^6.7.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1"
